@@ -9,8 +9,8 @@ pip install -r requirements.txt
 ```
 python program/main.py
 ```
-## Library
-### Local Library
+## Version
+### Python
 | Name | Version |
 |-------------|-------------|
 | python | 3.12.1 |
