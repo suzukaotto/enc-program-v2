@@ -18,3 +18,4 @@ python program/main.py
 | Name | Version |
 |-------------|-------------|
 | cryptography | 41.0.7 |
+
